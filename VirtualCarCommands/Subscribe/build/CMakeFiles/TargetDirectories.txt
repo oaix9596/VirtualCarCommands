@@ -1,0 +1,3 @@
+/home/oaix/VirtualCarCommands/Subscribe/build/CMakeFiles/rebuild_cache.dir
+/home/oaix/VirtualCarCommands/Subscribe/build/CMakeFiles/edit_cache.dir
+/home/oaix/VirtualCarCommands/Subscribe/build/CMakeFiles/polysync-subscriber-cpp.dir

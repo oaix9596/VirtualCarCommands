@@ -1,0 +1,3 @@
+/home/oaix/VirtualCarCommands/Publish/build/CMakeFiles/edit_cache.dir
+/home/oaix/VirtualCarCommands/Publish/build/CMakeFiles/rebuild_cache.dir
+/home/oaix/VirtualCarCommands/Publish/build/CMakeFiles/polysync-publisher-cpp.dir
